@@ -21,6 +21,9 @@ The model is a vanilla CNN model. The feature extraction part of the model conta
 
 Another technique used was Data augmentation.Data augmentation in data analysis are techniques used to increase the amount of data by adding slightly modified copies of already existing data or newly created synthetic data from existing data.
 
+# Why MobileNet?
+As a lightweight deep neural network, MobileNet has fewer parameters and higher classification accuracy. In order to further reduce the number of network parameters and improve the classification accuracy, dense blocks that are proposed in DenseNets are introduced into MobileNet.
+
 # Members:
 
 Charvi Bannur:https://github.com/charvibannur
