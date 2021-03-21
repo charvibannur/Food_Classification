@@ -1,5 +1,8 @@
 # Food_Classification
  Basic classifing model using vanilla convolutional neural networks
+# Video link
+https://drive.google.com/file/d/11Nss4WC3oCDkcZ5IyZffGiIYfCvaefMt/view
+
 # Image Classifier using CNN
 # what is a CNN?
 what is CNN – as we know its a machine learning algorithm for machines to understand the features of the image with foresight and remember the features to guess whether the name of the new image fed to the machine.
