@@ -1,7 +1,7 @@
 # Food_Classification
  Basic classifing model using vanilla convolutional neural networks
 # Video link
-https://drive.google.com/file/d/11Nss4WC3oCDkcZ5IyZffGiIYfCvaefMt/view
+https://drive.google.com/file/d/15XysmoHsINJzzEqPBeW4Yw0VxptwsmIX/view?usp=sharing
 
 # Image Classifier using CNN
 # what is a CNN?
